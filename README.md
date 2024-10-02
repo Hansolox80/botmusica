@@ -35,12 +35,13 @@ python -m pip install discord.py youtube_dl
    ```
 3. Quando o bot estiver online, ele ficará disponível no seu servidor do Discord, pronto para tocar músicas!
 
-### Principais Comandos
+### Comandos
 
 - `$$join`: O bot entra no canal de voz em que você está.
 - `$$leave`: O bot sai do canal de voz.
 - `$$play <nome da música ou URL>`: O bot busca e toca a música desejada.
 - `$$stop`: O bot para a música atual.
+- `$$ping`: O bot retorna o ping dele e da API.
 
 ### Dúvidas Frequentes
 
