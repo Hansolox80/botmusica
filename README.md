@@ -12,6 +12,8 @@ Antes de começar, certifique-se de ter instalado os seguintes itens:
   - `discord.py`
   - `youtube_dl`
   - `asyncio`
+  - `yt-dlp`
+  - `youtube_dl`
 
 Instale as bibliotecas necessárias executando este comando no terminal:
 ```bash
