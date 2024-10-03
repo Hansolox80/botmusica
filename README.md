@@ -15,11 +15,12 @@ Antes de começar, certifique-se de ter instalado os seguintes itens:
   - `asyncio`
   - `yt-dlp`
   - `youtube_dl`
+  - `PyNaCl`
 
 
 Instale as bibliotecas necessárias executando este comando no terminal:
 ```bash
-python -m pip install discord.py yt-dlp youtube_dl asyncio
+python -m pip install discord.py yt-dlp youtube_dl asyncio pynacl
 ```
 
 ### Criando o Bot no Discord
