@@ -167,9 +167,6 @@ Se você deseja aprender mais ou expandir as funcionalidades do bot, aqui estão
 
 Agora você tem seu próprio bot de música rodando no Discord, pronto para animar seu servidor! Para mais funcionalidades, sinta-se à vontade para modificar o código e adaptá-lo conforme suas necessidades. Boa sorte e divirta-se programando!
 
-
-Aqui está uma mensagem final para incluir no guia, informando que ele está protegido pela licença:
-
 ---
 
 **Note**: This guide, including all its content, code samples, and methodologies, is protected under the Creative Commons Attribution-NonCommercial License (CC BY-NC). By using or redistributing any part of this guide, you agree to comply with the terms specified in the license. For full license details, please refer to the `LICENSE.md` file included in this repository.
